@@ -22,6 +22,7 @@ public class ArrayDeclationCreationIntilization {
 //        int[][] a= new int[60][20];
         int[] a= new int[2];
         System.out.println("a : "+a.length);
+        System.out.println("a : "+a.length);
     }
     
 }
