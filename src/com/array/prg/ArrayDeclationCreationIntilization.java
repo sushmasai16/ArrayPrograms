@@ -7,7 +7,7 @@ package com.array.prg;
 
 /**
  *
- * @author HOME sdsdas
+ * @author HOME 
  */
 public class ArrayDeclationCreationIntilization {
 
